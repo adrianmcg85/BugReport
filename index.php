@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>Bug Reporting and Analysis</h1>
+    <a href="#">Report a Bug</a>
+    <a href="#">Review Bugs found on your project</a>
 </body>
 </html>
