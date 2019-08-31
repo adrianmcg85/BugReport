@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Bug Reporting and Analysis</h1>
 </body>
 </html>
