@@ -18,7 +18,7 @@
             <strong>Project name</strong>
             <br>
             <div class="col">
-            <input type="text">
+            <input type="text" name="project">
             </div>
             </div>
             <div class="row">
