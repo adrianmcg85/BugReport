@@ -25,17 +25,17 @@
                 <div class="col-1">
                     <strong>Desktop</strong>
                     <br>
-                    <input type="radio" name="device" id="device_desktop">
+                    <input type="radio" name="device" value='desktop' id="device_desktop">
                 </div>
                 <div class="col-1">
                     <strong>Tablet</strong>
                     <br>
-                    <input type="radio" name="device" id="device_tablet">
+                    <input type="radio" name="device" value="tablet" id="device_tablet">
                 </div>
                 <div class="col-1">
                     <strong>mobile</strong>
                     <br>
-                    <input type="radio" name="device" id="device_mobile">
+                    <input type="radio" name="device" value="mobile" id="device_mobile">
                 </div>
             </div>
             <div class="row">
