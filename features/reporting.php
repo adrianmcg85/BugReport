@@ -15,6 +15,13 @@
         <form action="submit_bug.php" method="post">
             <h3>Device Type</h3>
             <div class="row">
+            <strong>Project name</strong>
+            <br>
+            <div class="col">
+            <input type="text">
+            </div>
+            </div>
+            <div class="row">
                 <div class="col-1">
                     <strong>Desktop</strong>
                     <br>
